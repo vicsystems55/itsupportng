@@ -69,14 +69,14 @@
 							<div class="outer-box d-flex align-items-center">
 
 								<!-- Search Box -->
-								<div class="search-box">
+								{{-- <div class="search-box">
 									<form method="post" action="https://html.themexriver.com/it-firm/contact.html">
 										<div class="form-group">
 											<input type="search" name="search-field" value="" placeholder="Search..." required>
 											<button type="submit"><span class="icon fa fa-search"></span></button>
 										</div>
 									</form>
-								</div>
+								</div> --}}
 
 								<!-- Language -->
 								{{-- <div class="language dropdown">
@@ -90,10 +90,10 @@
 								</div> --}}
 
 								<div class="button-box">
-									<a class="btn-style-three theme-btn btn-item" href="#">
+									<a class="btn-style-three theme-btn btn-item" href="/about-su">
 										<div class="btn-wrap">
-											<span class="text-one">Get a quote now <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-											<span class="text-two">Get a quote now <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+											<span class="text-one">Learn more<i class="fa-solid fa-arrow-right fa-fw"></i></span>
+											<span class="text-two">Learn more<i class="fa-solid fa-arrow-right fa-fw"></i></span>
 										</div>
 									</a>
 								</div>
@@ -130,17 +130,17 @@
 						<div class="outer-box d-flex align-items-center">
 
 							<!-- Search Box -->
-							<div class="search-box">
+							{{-- <div class="search-box">
 								<form method="post" action="https://html.themexriver.com/it-firm/contact.html">
 									<div class="form-group">
 										<input type="search" name="search-field" value="" placeholder="Search..." required>
 										<button type="submit"><span class="icon fa fa-search"></span></button>
 									</div>
 								</form>
-							</div>
+							</div> --}}
 
 							<!-- Language -->
-							<div class="language dropdown">
+							{{-- <div class="language dropdown">
 								<button class="btn dropdown-toggle" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false"><i class="fa-solid fa-globe fa-fw"></i>English &nbsp;<span class="fa fa-angle-down"></span></button>
 								<ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
 									<li><a href="#">English Branch</a></li>
@@ -148,13 +148,13 @@
 									<li><a href="#">UAE Branch</a></li>
 									<li><a href="#">Qatar Branch</a></li>
 								</ul>
-							</div>
+							</div> --}}
 
 							<div class="button-box">
 								<a class="btn-style-three theme-btn btn-item" href="#">
 									<div class="btn-wrap">
-										<span class="text-one">Get a quote now <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-										<span class="text-two">Get a quote now <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+										<span class="text-one">Learn more<i class="fa-solid fa-arrow-right fa-fw"></i></span>
+										<span class="text-two">Learn more<i class="fa-solid fa-arrow-right fa-fw"></i></span>
 									</div>
 								</a>
 							</div>

@@ -15,15 +15,15 @@
 					<div class="slider-two-content">
 						<div class="slider-two_inner">
 							<div class="slider-two_title">Telecommunications</div>
-							<h1 class="slider-two_heading">Revolutionizing industry standards.</h1>
+							<h1 class="slider-two_heading">Connecting. Innovating. <br>Transforming Communication.</h1>
                             <div class="p-3"></div>
 							{{-- <div class="slider-two_text">We place you at the centre of international networks to <br> advance your strategic interests</div> --}}
 							<!-- Button Box -->
 							<div class="slider-two_button-box">
-								<a class="btn-style-two theme-btn btn-item" href="#">
+								<a class="btn-style-two theme-btn btn-item" href="/about-us">
 									<div class="btn-wrap">
-										<span class="text-one">Our Team <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-										<span class="text-two">Our Team <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+										<span class="text-one">Learn more <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+										<span class="text-two">Learn more <i class="fa-solid fa-arrow-right fa-fw"></i></span>
 									</div>
 								</a>
 							</div>
@@ -43,15 +43,15 @@
 					<div class="slider-two-content">
 						<div class="slider-two_inner">
 							<div class="slider-two_title">Power & Energy</div>
-							<h1 class="slider-two_heading">Seamless, comprehensive solutions.</h1>
+							<h1 class="slider-two_heading">Empowering. Energizing. <br>Fuelling Progress.</h1>
                             <div class="p-3"></div>
 							{{-- <div class="slider-two_text">We place you at the centre of international networks to <br> advance your strategic interests</div> --}}
 							<!-- Button Box -->
 							<div class="slider-two_button-box">
-								<a class="btn-style-two theme-btn btn-item" href="#">
+								<a class="btn-style-two theme-btn btn-item" href="/about-us">
 									<div class="btn-wrap">
-										<span class="text-one">Our Team <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-										<span class="text-two">Our Team <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+										<span class="text-one">Learn more<i class="fa-solid fa-arrow-right fa-fw"></i></span>
+										<span class="text-two">Learn more<i class="fa-solid fa-arrow-right fa-fw"></i></span>
 									</div>
 								</a>
 							</div>
@@ -71,15 +71,15 @@
 					<div class="slider-two-content">
 						<div class="slider-two_inner">
 							<div class="slider-two_title">Enterprise Solutions</div>
-							<h1 class="slider-two_heading">Unique client experience.</h1>
+							<h1 class="slider-two_heading">Empowering and Transforming, <br> ICT-enabled Solutions."</h1>
                             <div class="p-3"></div>
 							{{-- <div class="slider-two_text">We place you at the centre of international networks to <br> advance your strategic interests</div> --}}
 							<!-- Button Box -->
 							<div class="slider-two_button-box">
-								<a class="btn-style-two theme-btn btn-item" href="#">
+								<a class="btn-style-two theme-btn btn-item" href="/about-us">
 									<div class="btn-wrap">
-										<span class="text-one">Our Team <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-										<span class="text-two">Our Team <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+										<span class="text-one">Learn more <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+										<span class="text-two">Learn more <i class="fa-solid fa-arrow-right fa-fw"></i></span>
 									</div>
 								</a>
 							</div>
@@ -170,7 +170,7 @@
 			<div class="row clearfix">
 				<!-- Title Column -->
 				<div class="clients-one_title-column col-lg-4 col-md-12 col-sm-12">
-					<div class="client-one_title">Join over +15,000 happy clients!</div>
+					<div class="client-one_title">Our Clients</div>
 				</div>
 				<!-- Carousel Column -->
 				<div class="clients-one_carousel-column col-lg-8 col-md-12 col-sm-12">
@@ -180,10 +180,13 @@
 						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/6.png" alt=""></a></figure></li>
 						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></figure></li>
 						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/6.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/13.png" alt=""></a></figure></li>
+
+
 					</ul>
 				</div>
 			</div>
@@ -309,12 +312,12 @@
 								<img src="images/resource/service-2.jpg" alt="" />
 								<div class="service-block_two-overlay">
 									<div class="service-block_two-icon"><img src="images/icons/service-4.png" alt="" /></div>
-									<h5 class="service-block_two-title">Data Backup and Recovery</h5>
+									<h5 class="service-block_two-title">Telecommunications</h5>
 								</div>
 								<div class="service-block_two-overlay-two">
 									<div class="service-two_overlay-content">
-										<h5 class="service-block_two-title"><a href="#">Managed IT Services</a></h5>
-										<div class="service-block_two-text">Our goal is to propel your to business forward u world-class IT cybersecurity and technology We provide the expert solutions.</div>
+										<h5 class="service-block_two-title"><a href="#">Connecting the World</a></h5>
+										<div class="service-block_two-text"> Your trusted partner for cutting-edge telecommunication solutions, driving connectivity, innovation, and seamless business communication experiences.</div>
 										<a class="service-block_two-more" href="service-detail.html">Read more</a>
 									</div>
 								</div>
@@ -329,12 +332,12 @@
 								<img src="images/resource/service-3.jpg" alt="" />
 								<div class="service-block_two-overlay">
 									<div class="service-block_two-icon"><img src="images/icons/service-5.png" alt="" /></div>
-									<h5 class="service-block_two-title">VIP Solutions</h5>
+									<h5 class="service-block_two-title">Power & Energy</h5>
 								</div>
 								<div class="service-block_two-overlay-two">
 									<div class="service-two_overlay-content">
-										<h5 class="service-block_two-title"><a href="#">VIP Solutions</a></h5>
-										<div class="service-block_two-text">Our goal is to propel your to business forward u world-class IT cybersecurity and technology We provide the expert solutions.</div>
+										<h5 class="service-block_two-title"><a href="#">Energy Solutions</a></h5>
+										<div class="service-block_two-text"> Empowering businesses with advanced power and energy solutions, driving efficiency, sustainability, and uninterrupted operations.</div>
 										<a class="service-block_two-more" href="service-detail.html">Read more</a>
 									</div>
 								</div>
@@ -349,12 +352,12 @@
 								<img src="images/resource/service-4.jpg" alt="" />
 								<div class="service-block_two-overlay">
 									<div class="service-block_two-icon"><img src="images/icons/service-6.png" alt="" /></div>
-									<h5 class="service-block_two-title">IT Consulting Planning</h5>
+									<h5 class="service-block_two-title">Enterprise Systems</h5>
 								</div>
 								<div class="service-block_two-overlay-two">
 									<div class="service-two_overlay-content">
-										<h5 class="service-block_two-title"><a href="#">IT Consulting Planning</a></h5>
-										<div class="service-block_two-text">Our goal is to propel your to business forward u world-class IT cybersecurity and technology We provide the expert solutions.</div>
+										<h5 class="service-block_two-title"><a href="#">IT Consulting & Planning</a></h5>
+										<div class="service-block_two-text">Driving enterprise success with comprehensive ICT solutions, integrating technology, efficiency, security, and seamless business operations.</div>
 										<a class="service-block_two-more" href="service-detail.html">Read more</a>
 									</div>
 								</div>
@@ -369,12 +372,12 @@
 								<img src="images/resource/service-5.jpg" alt="" />
 								<div class="service-block_two-overlay">
 									<div class="service-block_two-icon"><img src="images/icons/service-7.png" alt="" /></div>
-									<h5 class="service-block_two-title">Managed IT Services</h5>
+									<h5 class="service-block_two-title">Infrastructure</h5>
 								</div>
 								<div class="service-block_two-overlay-two">
 									<div class="service-two_overlay-content">
 										<h5 class="service-block_two-title"><a href="#">Managed IT Services</a></h5>
-										<div class="service-block_two-text">Our goal is to propel your to business forward u world-class IT cybersecurity and technology We provide the expert solutions.</div>
+										<div class="service-block_two-text">Building robust ICT infrastructure for seamless telecommunication, empowering businesses with reliable connectivity, scalability, and future-ready communication solutions.</div>
 										<a class="service-block_two-more" href="service-detail.html">Read more</a>
 									</div>
 								</div>
@@ -601,7 +604,7 @@
 	<!-- End Services One -->
 
 	<!-- Case One -->
-	<section class="case-one">
+	<section class="case-one d-none">
 		<div class="case-one_pattern-layer" style="background-image:url(images/background/pattern-16.png)"></div>
 		<div class="case-one_pattern-layer-two" data-parallax='{"y" : -100}' style="background-image:url(images/background/pattern-17.png)"></div>
 		<div class="auto-container">
@@ -737,7 +740,7 @@
 	<!-- End Case One -->
 
 		<!-- Team One -->
-		<section class="team-one">
+		<section class="team-one d-none">
 			<span class="team-color-box"></span>
 			<div class="auto-container">
 				<!-- Sec Title -->
@@ -1037,7 +1040,7 @@
 	<!-- End Counter Two -->
 
 	<!-- Awards One -->
-	<section class="awards-one">
+	<section class="awards-one d-none">
 		<div class="auto-container">
 			<div class="awards-one_inner-container" style="background-image:url(images/background/2.jpg)">
 				<div class="awards-one_pattern-1" style="background-image:url(images/background/pattern-3.png)"></div>
@@ -1252,7 +1255,7 @@
 	<!-- End Pricing One -->
 
 	<!-- Testimonial Section -->
-	<section class="testimonial-section" style="background-image: url(images/background/5.jpg)">
+	<section class="testimonial-section d-none" style="background-image: url(images/background/5.jpg)">
 		<div class="pattern-layer-one" style="background-image: url(images/background/pattern-25.png)"></div>
 		<div class="auto-container">
 			<div class="row clearfix">
@@ -1377,7 +1380,7 @@
 	<!-- End Testimonial Section -->
 
 	<!-- News One -->
-	<section class="news-two">
+	<section class="news-two d-none">
 		<div class="auto-container">
 
 			<!-- Sec Title -->
@@ -1533,7 +1536,7 @@
 	<!-- End News One -->
 
 	<!-- CTA One -->
-	<section class="cta-one">
+	<section class="cta-one ">
 		<div class="auto-container">
 			<div class="d-flex justify-content-between align-items-center flex-wrap">
 				<div class="left-box">

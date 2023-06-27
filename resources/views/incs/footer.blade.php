@@ -13,9 +13,9 @@
 							<div class="footer-column col-lg-6 col-md-6 col-sm-12">
 								<div class="footer-widget logo-widget">
 									<div class="logo">
-										<a href="index.html"><img src="images/footer-logo.png" alt="" /></a>
+										<a href="index.html"><img src="images/logo-3.png" alt="" /></a>
 									</div>
-									<div class="text">We work with a passion of taking challenges and creating new ones in advertising sector.</div>
+									<div class="text">Telecommunications Power and Infrastructure: Empowering Seamless Connectivity and Uninterrupted Communication Experiences</div>
 									<a href="#" class="theme-btn about-btn">About us</a>
 								</div>
 							</div>
@@ -40,8 +40,7 @@
 									<ul class="social-box">
 										<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
 										<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-										<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a></li>
-										<li><a href="https://behance.com/" class="fa-solid fa-behance fa-fw"></a></li>
+
 									</ul>
 									<!-- End Social Box -->
 
@@ -60,18 +59,19 @@
 								<div class="footer-widget contact-widget">
 									<h4>Official info:</h4>
 									<ul class="contact-list">
-										<li><span class="icon fa fa-phone"></span> 30 Commercial Road <br> Fratton, Australia</li>
-										<li><span class="icon fa fa-envelope"></span> 1-888-452-1505</li>
+										<li><span class="icon fa fa-phone"></span>Block 1B, Setraco Quarters, Federal
+                                            Housing Authority ,  4th Avenue,  Gwarinpa,  Abuja
+                                            FCT.
+                                            </li>
+										<li><span class="icon fa fa-envelope"></span> 09025553091, 08033114571
+                                        </li>
 									</ul>
-									<div class="timing">
-										<strong>Open Hours: </strong>
-										Mon - Sat: 8 am - 5 pm, <br> Sunday: CLOSED
-									</div>
+
 								</div>
 							</div>
 
 							<!-- Footer Column -->
-							<div class="footer-column col-lg-6 col-md-6 col-sm-12">
+							<div class="footer-column col-lg-6 col-md-6 col-sm-12 d-none">
 								<div class="footer-widget instagram-widget">
 									<h4>Gallery</h4>
 									<div class="widget-content">

@@ -21,10 +21,10 @@
 				<div class="d-flex justify-content-between align-items-center flex-wrap">
 					<div class="left-box">
 						<div class="sec-title_title">Contact us</div>
-						<h2 class="sec-title_heading">Grow Your Business With <br> <span>Our Expertise</span></h2>
+						<h2 class="sec-title_heading">Get in touch with <br> <span>Us</span></h2>
 					</div>
 					<div class="right-box">
-						<div class="sec-title_text">The perfect blend of mature processes, flexible delivery <br> models, effective project management.</div>
+						{{-- <div class="sec-title_text">The perfect blend of mature processes, flexible delivery <br> models, effective project management.</div> --}}
 					</div>
 				</div>
 			</div>
@@ -39,7 +39,10 @@
 							<div class="block-inner">
 								<span class="icon"><img src="images/icons/contact-1.png" alt="" /></span>
 								<strong>Office address</strong>
-								Digital Agency Network 20 Eastbourne Terrace London W2 6LG
+								Block 1B, Setraco Quarters, Federal
+Housing Authority ,  4th Avenue,  Gwarinpa,  Abuja
+FCT.
+
 							</div>
 						</div>
 
@@ -48,7 +51,7 @@
 							<div class="block-inner">
 								<span class="icon"><img src="images/icons/contact-2.png" alt="" /></span>
 								<strong>Telephone number</strong>
-								(408) 389-5470 <br> (408) 456-5470
+								09025553091 <br> 08033114571
 							</div>
 						</div>
 
@@ -57,7 +60,9 @@
 							<div class="block-inner">
 								<span class="icon"><img src="images/icons/contact-3.png" alt="" /></span>
 								<strong>Mail address</strong>
-								help@envato.com <br> help@support.com
+								info@itsupportng. com <br>
+ekejiuba 57 @ yahoo. com
+
 							</div>
 						</div>
 
@@ -119,11 +124,10 @@
 		</div>
 	</section>
 	<!-- End Contact One -->
-
 	<!-- Map One -->
 	<section class="map-one">
 		<div class="map-outer">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d805184.6331292129!2d144.49266890254142!3d-37.97123689954809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad646b5d2ba4df7%3A0x4045675218ccd90!2sMelbourne%20VIC%2C%20Australia!5e0!3m2!1sen!2s!4v1574408946759!5m2!1sen!2s" allowfullscreen=""></iframe>
+			<iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Block%201B,%20Setraco%20Quarters,%20Federal%20Housing%20Authority%20,%20%204th%20Avenue,%20%20Gwarinpa,%20%20Abuja%20FCT.+(Itsupport%20Nigeria%20Limited)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" allowfullscreen=""></iframe>
 		</div>
 	</section>
 	<!-- End Map One -->

@@ -18,12 +18,17 @@
 		<div class="auto-container">
 			<div class="row clearfix">
 				<!-- Content Column -->
-				<div class="about-one_content col-lg-6 col-md-12 col-sm-12">
+				<div class="about-one_content col-lg-7 col-md-12 col-sm-12">
 					<div class="about-one_content-inner">
 						<div class="sec-title">
 							<div class="sec-title_title">About us</div>
-							<h2 class="sec-title_heading">Choose <span>The Best</span> IT <br> Service Company</h2>
-							<div class="sec-title_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do tempo rincididunt ut labore et dolore magna.</div>
+							<h2 class="sec-title_heading">Why Choose <span>Us.</span></h2>
+							<div class="sec-title_text">ITSUPPORT NIGERIA LIMITED is a 100% privately owned. ISO 9001:2015 certified leading  Pan- Africa infrastructure provider in the Telecommunications , Energy Service and  Enterprise management system Sector, delivering Turnkey Solutions to suit clients need.
+
+                                Established in 2002, ITSUPPORT has strived to deliver projects on time, within budget and  to the required quality, while maintaining focus on continuous improvement on best  internationally adopted policies and procedures applicable to  the  technologies  the  company operates in.
+
+                                ITSUPPORT NIGERIA LIMITED combines it’s wealth of business and technical acumen, along  with in depth local knowledge, to relieves  it’s  clients  of costly  and  time  consuming  activities, allowing them to effectively run a profitable enterprise comfortable in the  knowledge that their service provider is dependable.
+                                </div>
 						</div>
 
 						<!-- About Info Tabs -->
@@ -34,8 +39,8 @@
 								<!-- Tab Btns -->
 								<ul class="tab-btns tab-buttons clearfix">
 									<li data-tab="#prod-mission" class="tab-btn active-btn">Our Mission</li>
-									<li data-tab="#prod-vision" class="tab-btn">Our Vision</li>
-									<li data-tab="#prod-value" class="tab-btn">Our Value</li>
+									<li data-tab="#prod-vision" class="tab-btn">Cooperate Vision</li>
+									<li data-tab="#prod-value" class="tab-btn">Our Future</li>
 								</ul>
 
 								<!-- Tabs Container -->
@@ -44,21 +49,40 @@
 									<!-- Tab / Active Tab -->
 									<div class="tab active-tab" id="prod-mission">
 										<div class="content">
-											<div class="text">An IT firm or MSP who keeps your IT running smoothly at all times is like a plumber who fixes your pipes; that’s what they are supposed to do. Many IT firms struggle to keep themselves and their IT from falling apart. We’ve raised the standards in this industry and are a leading cybersecurity.</div>
+											<div class="text">To provide cutting edge solutions in
+                                                Telecommunications, Energy and
+                                                Enterprise Management systems,
+                                                tailored to exceed customers
+                                                expectations, driven by a wellmotivated and dedicated team and to
+                                                deliver optimal returns on investments</div>
 										</div>
 									</div>
 
 									<!-- Tab -->
 									<div class="tab" id="prod-vision">
 										<div class="content">
-											<div class="text">An IT firm or MSP who keeps your IT running smoothly at all times is like a plumber who fixes your pipes; that’s what they are supposed to do. Many IT firms struggle to keep themselves and their IT from falling apart. We’ve raised the standards in this industry and are a leading cybersecurity.</div>
+											<div class="text">To become the most dynamic and
+                                                innovative Telecommunications, Energy
+                                                and Enterprise Management
+                                                Service Providers by building an enduring
+                                                customer focused company driven
+                                                constantly by innovation, propelled by
+                                                integrity, fair play and absolute reliance on
+                                                quality service delivery.</div>
 										</div>
 									</div>
 
 									<!-- Tab -->
 									<div class="tab" id="prod-value">
 										<div class="content">
-											<div class="text">An IT firm or MSP who keeps your IT running smoothly at all times is like a plumber who fixes your pipes; that’s what they are supposed to do. Many IT firms struggle to keep themselves and their IT from falling apart. We’ve raised the standards in this industry and are a leading cybersecurity.</div>
+											<div class="text">We are constantly monitoring our
+                                                business environments,
+                                                consolidating on our existing
+                                                strength and unfolding on fresh
+                                                ideas not only to maintain a
+                                                healthy existence, but also to
+                                                create better opportunities that
+                                                will always guarantee us a future</div>
 										</div>
 									</div>
 
@@ -75,7 +99,7 @@
 					</div>
 				</div>
 				<!-- Image Column -->
-				<div class="about-one_image-column-two col-lg-6 col-md-12 col-sm-12">
+				<div class="about-one_image-column-two col-lg-5 col-md-12 col-sm-12">
 					<div class="about-one-image-inner-two">
 						<div class="about-cicle_layer-two">
 							<img src="images/background/pattern-45.png" alt="" />
@@ -93,8 +117,8 @@
 									<div class="about-one_award-icon">
 										<img src="images/icons/award.png" alt="" />
 									</div>
-									<strong>Best Awarded Company</strong>
-									We adapt our delivery to the way your work, whether as an external provider.
+									<strong>We are comitted to providing the best.</strong>
+
 								</div>
 							</div>
 						</div>
@@ -105,21 +129,60 @@
 	</section>
 	<!-- End About One -->
 
+    <div class="py-5">
+
+            	<!-- Clients One -->
+	<section class="clients-one">
+		<div class="clients-one_pattern" style="background-image:url(images/background/3.jpg)"></div>
+		<div class="auto-container">
+			<div class="row clearfix">
+				<!-- Title Column -->
+				<div class="clients-one_title-column col-lg-4 col-md-12 col-sm-12">
+					<div class="client-one_title">Our Clients</div>
+				</div>
+				<!-- Carousel Column -->
+				<div class="clients-one_carousel-column col-lg-8 col-md-12 col-sm-12">
+					<!-- Sponsors Carousel -->
+					<ul class="sponsors-carousel-two owl-carousel owl-theme">
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/6.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></figure></li>
+                        <li class="slide-item"><figure class="client-one_image-box"><a href="#"><img src="images/clients/13.png" alt=""></a></figure></li>
+
+
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Clients One -->
+
+
+    </div>
+
+
 	<!-- Process One -->
 	<section class="process-one">
 		<div class="auto-container">
 			<div class="process-one_inner-conatiner">
 				<div class="four-item-carousel owl-carousel owl-theme">
 
+
+
 					<!-- Process Column -->
 					<div class="process-one_block">
 						<div class="process-one_block-inner">
 							<div class="process-one_image">
-								<img src="images/resource/process-1.png" alt="" />
+								<img  src="images/resource/2013.jpg" alt="" />
 							</div>
-							<div class="process-one_year">2010</div>
-							<h5 class="process-one_heading">Started business</h5>
-							<div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div>
+							<div class="process-one_year style-three">2013</div>
+							<h5 class="process-one_heading">ISO 27001: 2013</h5>
+							{{-- <div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div> --}}
 						</div>
 					</div>
 
@@ -127,11 +190,11 @@
 					<div class="process-one_block">
 						<div class="process-one_block-inner">
 							<div class="process-one_image">
-								<img src="images/resource/process-2.png" alt="" />
+								<img src="images/resource/2015.jpg" alt="" />
 							</div>
-							<div class="process-one_year style-two">2012</div>
-							<h5 class="process-one_heading">Survival during wartime</h5>
-							<div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div>
+							<div class="process-one_year style-four">2015</div>
+							<h5 class="process-one_heading">ISO 9001: 2015</h5>
+							{{-- <div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div> --}}
 						</div>
 					</div>
 
@@ -139,73 +202,14 @@
 					<div class="process-one_block">
 						<div class="process-one_block-inner">
 							<div class="process-one_image">
-								<img src="images/resource/process-3.png" alt="" />
+								<img src="images/resource/2018.jpg" alt="" />
 							</div>
-							<div class="process-one_year style-three">2016</div>
-							<h5 class="process-one_heading">Crisis and opportunity</h5>
-							<div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div>
+							<div class="process-one_year">2018</div>
+							<h5 class="process-one_heading">ISO 45001: 2018</h5>
+							{{-- <div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div> --}}
 						</div>
 					</div>
 
-					<!-- Process Column -->
-					<div class="process-one_block">
-						<div class="process-one_block-inner">
-							<div class="process-one_image">
-								<img src="images/resource/process-4.png" alt="" />
-							</div>
-							<div class="process-one_year style-four">2017</div>
-							<h5 class="process-one_heading">Get Award</h5>
-							<div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div>
-						</div>
-					</div>
-
-					<!-- Process Column -->
-					<div class="process-one_block">
-						<div class="process-one_block-inner">
-							<div class="process-one_image">
-								<img src="images/resource/process-1.png" alt="" />
-							</div>
-							<div class="process-one_year">2010</div>
-							<h5 class="process-one_heading">Started business</h5>
-							<div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div>
-						</div>
-					</div>
-
-					<!-- Process Column -->
-					<div class="process-one_block">
-						<div class="process-one_block-inner">
-							<div class="process-one_image">
-								<img src="images/resource/process-2.png" alt="" />
-							</div>
-							<div class="process-one_year style-two">2012</div>
-							<h5 class="process-one_heading">Survival during wartime</h5>
-							<div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div>
-						</div>
-					</div>
-
-					<!-- Process Column -->
-					<div class="process-one_block">
-						<div class="process-one_block-inner">
-							<div class="process-one_image">
-								<img src="images/resource/process-3.png" alt="" />
-							</div>
-							<div class="process-one_year style-three">2016</div>
-							<h5 class="process-one_heading">Crisis and opportunity</h5>
-							<div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div>
-						</div>
-					</div>
-
-					<!-- Process Column -->
-					<div class="process-one_block">
-						<div class="process-one_block-inner">
-							<div class="process-one_image">
-								<img src="images/resource/process-4.png" alt="" />
-							</div>
-							<div class="process-one_year style-four">2017</div>
-							<h5 class="process-one_heading">Get Award</h5>
-							<div class="process-one_text">A People Ops leader who is committed to the growth and development of leaders.</div>
-						</div>
-					</div>
 
 				</div>
 			</div>
@@ -214,7 +218,7 @@
 	<!-- End Process One -->
 
 	<!-- Team One -->
-	<section class="team-one">
+	<section class="team-one d-none">
 		<div class="auto-container">
 			<!-- Sec Title -->
 			<div class="sec-title centered">
@@ -337,7 +341,7 @@
 	<!-- End Team One -->
 
 	<!-- Counter One -->
-	<section class="counter-one">
+	<section class="counter-one d-none">
 		<div class="auto-container">
 			<div class="counter-one_inner-container" style="background-image:url(images/background/1.jpg)">
 				<div class="row clearfix">
@@ -385,7 +389,7 @@
 	<!-- End Counter One -->
 
 	<!-- Testimonial Three -->
-	<section class="testimonial-three">
+	<section class="testimonial-three d-none">
 		<div class="auto-container">
 			<div class="row clearfix">
 
