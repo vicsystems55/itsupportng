@@ -90,7 +90,7 @@
 								</div> --}}
 
 								<div class="button-box">
-									<a class="btn-style-three theme-btn btn-item" href="/about-su">
+									<a class="btn-style-three theme-btn btn-item" href="/about-us">
 										<div class="btn-wrap">
 											<span class="text-one">Learn more<i class="fa-solid fa-arrow-right fa-fw"></i></span>
 											<span class="text-two">Learn more<i class="fa-solid fa-arrow-right fa-fw"></i></span>

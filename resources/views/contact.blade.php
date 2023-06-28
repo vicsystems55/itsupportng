@@ -2,7 +2,7 @@
 
 @section('content')
 	<!-- Page Title -->
-    <section class="page-title" style="background-image:url(images/background/77.jpg)">
+    <section class="page-title" style="background-image:url(images/background/77.jpg); background-position: center center;">
         <div class="auto-container">
 			<h2>Contact Us</h2>
 			<ul class="bread-crumb clearfix">
