@@ -204,7 +204,7 @@
 						<div class="sec-title">
 							<div class="sec-title_title">About us</div>
 							<h2 class="sec-title_heading">Choose <span>The Best</span> IT <br> Service Company</h2>
-							<div class="sec-title_text">Discover comprehensive turnkey solutions in telecommunications, energy services, and enterprise management systems at Itsupport Nigeri Limited.</div>
+							<div class="sec-title_text">Discover comprehensive turnkey solutions in telecommunications, energy services, and enterprise management systems at Itsupport Nigeria Limited.</div>
 						</div>
 
 						<!-- About Info Tabs -->
