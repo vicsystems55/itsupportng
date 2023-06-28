@@ -7,7 +7,7 @@
 
 			<!-- Slide -->
 			<div class="slide">
-				<div class="slider-two_image-layer" style="background-image:url(images/main-slider/11.jpg)"></div>
+				<div class="slider-two_image-layer" style="background-image:url(images/main-slider/11.jpg); background-position: center right;"></div>
 				<div class="slider-two_pattern-layer" style="background-image:url(images/main-slider/pattern-1.png)"></div>
 				<div class="auto-container">
 
@@ -63,7 +63,7 @@
 
 			<!-- Slide -->
 			<div class="slide">
-				<div class="slider-two_image-layer" style="background-image:url(images/main-slider/33.jpg)"></div>
+				<div class="slider-two_image-layer"  style="background-image:url(images/main-slider/33.jpg); background-position: center left;"></div>
 				<div class="slider-two_pattern-layer" style="background-image:url(images/main-slider/pattern-1.png)"></div>
 				<div class="auto-container">
 
@@ -71,7 +71,7 @@
 					<div class="slider-two-content">
 						<div class="slider-two_inner">
 							<div class="slider-two_title">Enterprise Solutions</div>
-							<h1 class="slider-two_heading">Empowering and Transforming, <br> ICT-enabled Solutions."</h1>
+							<h1 class="slider-two_heading">Implementing and Transforming, <br> ICT-enabled Solutions."</h1>
                             <div class="p-3"></div>
 							{{-- <div class="slider-two_text">We place you at the centre of international networks to <br> advance your strategic interests</div> --}}
 							<!-- Button Box -->
@@ -267,9 +267,9 @@
 						</div>
 
 						<!-- About One Detail -->
-						<a class="about-one_detail lightbox-video" href="https://www.youtube.com/watch?v=kxPCFljwJws">
+						<a class="about-one_detail lightbox-video" href="/aboutus-">
 							Check details about our company
-							<span class="play-icon"><span class="fa-solid fa-play fa-fw"></span><i class="ripple"></i></span>
+							{{-- <span class="play-icon"><span class="fa-solid fa-play fa-fw"></span><i class="ripple"></i></span> --}}
 						</a>
 
 					</div>

@@ -108,16 +108,16 @@
 							<!-- Counter Column -->
 							<div class="about-one_counter-block">
 								<div class="dots-layer" style="background-image:url(images/icons/about-dots.png)"></div>
-								<div class="about-one_counter-number"><span class="odometer" data-count="12"></span></div>
+								<div class="about-one_counter-number"><span class="odometer" data-count="19"></span></div>
 								<div class="about-one_counter-text">years of <br> experiences</div>
 							</div>
-							<img src="images/resource/about-4.jpg" alt="" />
+							<img src="images/resource/about-44.jpg" alt="" />
 							<div class="about-one_award">
 								<div class="about-one_award-inner">
 									<div class="about-one_award-icon">
 										<img src="images/icons/award.png" alt="" />
 									</div>
-									<strong>We are comitted to providing the best.</strong>
+									<strong>We are committed to providing the best.</strong>
 
 								</div>
 							</div>
@@ -138,7 +138,7 @@
 			<div class="row clearfix">
 				<!-- Title Column -->
 				<div class="clients-one_title-column col-lg-4 col-md-12 col-sm-12">
-					<div class="client-one_title">Our Clients</div>
+					<div class="client-one_titl h4">Our Clients</div>
 				</div>
 				<!-- Carousel Column -->
 				<div class="clients-one_carousel-column col-lg-8 col-md-12 col-sm-12">

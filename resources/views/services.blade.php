@@ -4,137 +4,172 @@
 	<!-- Page Title -->
     <section class="page-title" style="background-image:url(images/background/7.jpg)">
         <div class="auto-container">
-			<h2>Service Detail</h2>
+			<h2>Service's</h2>
 			<ul class="bread-crumb clearfix">
 				<li><a href="index.html">Home</a></li>
-				<li>Service Detail</li>
+				<li>Service's</li>
 			</ul>
         </div>
     </section>
     <!-- End Page Title -->
 
-	<!-- Sidebar Page Container -->
-    <div class="sidebar-page-container">
-    	<div class="auto-container">
-        	<div class="row clearfix">
+	<!-- Service Two -->
+	<section class="service-two">
+		<div class="auto-container">
+			<!-- Sec Title -->
+			<div class="sec-title centered">
+				<div class="sec-title_title">Our Services</div>
+				<h2 class="sec-title_heading">We provide the necessary <br> services to you</h2>
+			</div>
 
-				<!-- Sidebar Side -->
-                <div class="sidebar-side left-sidebar col-lg-4 col-md-12 col-sm-12">
-                	<aside class="sidebar">
-						<!-- Sidebar Widget -->
-						<div class="sidebar-widget category-widget">
-							<ul class="cat-list">
-								<li class="active"><a href="#">UI/UX & Web Design</a></li>
-								<li><a href="#">Cloud Services</a></li>
-								<li><a href="#">Software Development</a></li>
-								<li><a href="#">Social Media Marketing</a></li>
-								<li><a href="#">Delivery Services</a></li>
-							</ul>
-						</div>
 
-						<!-- Contact Widget -->
-						<div class="sidebar-widget contact-widget">
-							<div class="widget-content" style="background-image:url(images/background/8.jpg)">
-								<div class="title">Contact us now</div>
-								<div class="help">If need help!</div>
-								<a class="phone" href="tel:+557-3452-234">557-3452-234</a>
-								<div class="form">or go to contact form:</div>
-								<div class="button-box text-center">
-									<a href="#">Let’s start now <span class="fa-solid fa-link fa-fw"></span></a>
+		</div>
+	</section>
+	<!-- End Service Two -->
+
+	<!-- Fluid Section One -->
+    <section class="fluid-one">
+    	<div class="outer-container d-flex">
+
+			<!-- Carousel Column -->
+            <div class="fluid-one_carousel-column">
+				<div class="fluid-one_carousel-inner">
+					<div class="single-item-carousel owl-carousel owl-theme">
+						<!-- Slide -->
+						<div class="slide">
+							<figure class="fluid-one_image"><img src="images/resource/fluid-11.jpg" alt=""></figure>
+							<div class="fluid-one_content">
+								<!-- Sec Title -->
+								<div class="sec-title light">
+									<div class="sec-title_title">Information Technology</div>
+									<h2 class="sec-title_heading">Fibre Optics </h2>
+									<div class="sec-title_text">
+                                        <ul>
+                                            <li>OSP[SURVEY,DESIGN,IMPLEMENTATION] </li>
+                                            <li>BACKBONE, FTTX, GPON </li>
+                                            <li>O&M OSP </li>
+
+
+
+                                        </ul>
+                                    </div>
 								</div>
+								<a class="fluid-one_arrow fa-solid fa-arrow-right fa-fw theme-btn" href="#"></a>
 							</div>
 						</div>
+						<!-- Slide -->
+						<div class="slide">
+							<figure class="fluid-one_image"><img src="images/resource/fluid-22.jpg" alt=""></figure>
+							<div class="fluid-one_content">
+								<!-- Sec Title -->
+								<div class="sec-title light">
+									<div class="sec-title_title">Telecommunications</div>
+									<h2 class="sec-title_heading"> RF</h2>
+									<div class="sec-title_text">
+                                        <ul>
+                                            <li>BTS 2G/3G INST. COMMISSIONING</li>
+                                            <li>MICROWAVE INSTALLATION & COMMISSIONING</li>
+                                            <li>TOWER AUDIT</li>
+                                            <li>NETWORK AUDIT</li>
+                                            <li>BENCHMARKING [DT]</li>
+                                            <li>SITE PLANNING</li>
+                                            <li>DRIVE TEST</li>
 
-					</aside>
-				</div>
-
-				<!-- Content Side -->
-                <div class="content-side right-sidebar col-lg-8 col-md-12 col-sm-12">
-					<div class="service-detail">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/resource/service-10.jpg" alt="" />
+                                        </ul>
+                                    </div>
+								</div>
+								<a class="fluid-one_arrow fa-solid fa-arrow-right fa-fw theme-btn" href="#"></a>
 							</div>
-							<h3>UI/UX & Web Design</h3>
-							<p>With over a decade of experience, we’ve established ourselves as one of the pioneering agencies in the region. Our small, flexible, agile and design-led structures and processes allow us to be highly responsive and innovative. We’re made of passionate leaders, strategists, managers, developers, animators and designers who work together under one umbrella. We are a digitally-led, full-service creative agency. We combine strategy, marketing, design.</p>
-							<div class="row clearfix">
+						</div>
+						<!-- Slide -->
+						<div class="slide">
+							<figure class="fluid-one_image"><img src="images/resource/fluid-33.jpg" alt=""></figure>
+							<div class="fluid-one_content">
+								<!-- Sec Title -->
+								<div class="sec-title light">
+									<div class="sec-title_title">Enginering</div>
+									<h2 class="sec-title_heading"> CIVIL</h2>
+									<div class="sec-title_text">
+                                        <ul>
+                                            <li>SITE BUILD [TURNKEY]</li>
+                                            <li>COLOCATION</li>
+                                            <li>FAIL ARREST SYSTEM (FAS)</li>
+                                            <li>SITE REFURBISHMENT</li>
+                                            <li>TSSR AND PLANNING</li>
 
-								<!-- Feature Two -->
-								<div class="feature-two col-lg-6 col-md-6 col-sm-12">
-									<div class="feature-two_inner">
-										<div class="feature-two_content">
-											<span class="feature-two_icon"><img src="images/icons/feature-6.png" alt="" /></span>
-											<h5 class="feature-two_heading">Why <span>It soft?</span></h5>
-											<div class="feature-two_text">We're making room for self care today with plan.</div>
-										</div>
-									</div>
+
+
+                                        </ul>
+                                    </div>
 								</div>
-
-								<!-- Feature Two -->
-								<div class="feature-two col-lg-6 col-md-6 col-sm-12">
-									<div class="feature-two_inner">
-										<div class="feature-two_content">
-											<span class="feature-two_icon"><img src="images/icons/feature-7.png" alt="" /></span>
-											<h5 class="feature-two_heading">Unlimited support</h5>
-											<div class="feature-two_text">New range coming in on a weekly basis veg section.</div>
-										</div>
-									</div>
-								</div>
-
+								<a class="fluid-one_arrow fa-solid fa-arrow-right fa-fw theme-btn" href="#"></a>
 							</div>
+						</div>
 
-							<div class="row clearfix">
-								<!-- Column -->
-								<div class="column col-lg-6 col-md-6 col-sm-12">
-									<div class="image">
-										<img src="images/resource/service-11.jpg" alt="" />
-									</div>
+                        <!-- Slide -->
+						<div class="slide">
+							<figure class="fluid-one_image"><img src="images/resource/fluid-44.jpg" alt=""></figure>
+							<div class="fluid-one_content">
+								<!-- Sec Title -->
+								<div class="sec-title light">
+									<div class="sec-title_title">Enterprise</div>
+									<h2 class="sec-title_heading"> MANAGEMENT SYSTEMS</h2>
+									<div class="sec-title_text">
+                                        <ul>
+                                            <li>PASSIVE MAINTENANCE</li>
+                                            <li>ACTIVE MAINTENANCE</li>
+
+
+
+
+                                        </ul>
+                                    </div>
 								</div>
-								<!-- Column -->
-								<div class="column col-lg-6 col-md-6 col-sm-12">
-									<h4>We serve the best work</h4>
-									<p>By initiating your project with Fingent, you get a dedicated and skilled team backing you up round-the-clock. All our processes are  the customer oriented, designed to reduce the cost of business operations.</p>
-								</div>
+								<a class="fluid-one_arrow fa-solid fa-arrow-right fa-fw theme-btn" href="#"></a>
 							</div>
-
-							<div class="feature-lower_box">
-								<div class="row clearfix">
-
-									<!-- Feature Three -->
-									<div class="feature-three col-lg-4 col-md-4 col-sm-6">
-										<div class="feature-three_inner">
-											<span class="feature-three_icon"><img src="images/icons/service-35.png" alt="" /></span>
-											Best quality <br> support
-										</div>
-									</div>
-
-									<!-- Feature Three -->
-									<div class="feature-three col-lg-4 col-md-4 col-sm-6">
-										<div class="feature-three_inner">
-											<span class="feature-three_icon"><img src="images/icons/service-36.png" alt="" /></span>
-											Best quality <br> support
-										</div>
-									</div>
-
-									<!-- Feature Three -->
-									<div class="feature-three col-lg-4 col-md-4 col-sm-6">
-										<div class="feature-three_inner">
-											<span class="feature-three_icon"><img src="images/icons/service-37.png" alt="" /></span>
-											Best quality <br> support
-										</div>
-									</div>
-
-								</div>
-							</div>
-
 						</div>
 					</div>
 				</div>
+            </div>
 
+            <!-- Content Column -->
+            <div class="fluid-one_content-column">
+            	<div class="fluid-one_column-inner">
+					<!-- Sec Title -->
+					<div class="sec-title">
+						<div class="sec-title_title">What we do.</div>
+						<h2 class="sec-title_heading">Our <span class="theme_color">solutions</span> span <br> various industries</h2>
+						<div class="sec-title_text">We provide the full spectrum of IT services and consulting for various industries.</div>
+					</div>
+					<div class="row clearfix">
+
+						<!-- Fluid Block One -->
+						<div class="fluid-block_one col-lg-6 col-md-6 col-sm-12">
+							<div class="fluid-block_icon">
+								<img src="images/icons/fluid-1.png" alt="" />
+							</div>
+							<h5 class="fluid-block_title">IT Driven solutions</h5>
+							<div class="fluid-block_text">
+                            </div>
+						</div>
+
+						<!-- Fluid Block One -->
+						<div class="fluid-block_one col-lg-6 col-md-6 col-sm-12">
+							<div class="fluid-block_icon">
+								<img src="images/icons/fluid-2.png" alt="" />
+							</div>
+							<h5 class="fluid-block_title">Global Entrepreneur</h5>
+							<div class="fluid-block_text">
+                            </div>
+						</div>
+
+					</div>
+				</div>
 			</div>
+
 		</div>
-	</div>
-	<!-- End Sidebar Page Container -->
+	</section>
+	<!-- End Fluid Section One -->
 
 	<!-- CTA One -->
 	<section class="cta-one">
