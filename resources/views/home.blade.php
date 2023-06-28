@@ -1536,15 +1536,15 @@
 	<!-- End News One -->
 
 	<!-- CTA One -->
-	<section class="cta-one ">
+	<section class="cta-one">
 		<div class="auto-container">
 			<div class="d-flex justify-content-between align-items-center flex-wrap">
 				<div class="left-box">
 					<h3 class="cta-one_heading">Looking for the Best IT Business Solutions?</h3>
-					<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
+					<div class="cta-one_text"></div>
 				</div>
 				<div class="right-box">
-					<a class="cta-one_btn theme-btn" href="contact.html">get a quote</a>
+					<a class="cta-one_btn theme-btn" href="/about-us">get a quote</a>
 				</div>
 			</div>
 		</div>
