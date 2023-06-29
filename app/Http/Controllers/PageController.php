@@ -72,8 +72,8 @@ class PageController extends Controller
         // SEOTools::twitter()->setSite('@LuizVinicius73');
         SEOTools::jsonLd()->addImage(config('app.url').'/images/resource/about-44.jpg');
 
-        OpenGraph::addImage(['url' => config('app.url').'/images/resource/about-44.jpg', 'size' => 300]);
-        OpenGraph::addImage(config('app.url').'/images/resource/about-44.jpg', ['height' => 300, 'width' => 300]);
+        OpenGraph::addImage(['url' => config('app.url').'/images/gallery/project-111.jpg', 'size' => 300]);
+        OpenGraph::addImage(config('app.url').'/images/gallery/project-111.jpg', ['height' => 300, 'width' => 300]);
 
 
         return view('projects');
