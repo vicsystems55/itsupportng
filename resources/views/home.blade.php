@@ -170,7 +170,7 @@
 			<div class="row clearfix">
 				<!-- Title Column -->
 				<div class="clients-one_title-column col-lg-4 col-md-12 col-sm-12">
-					<div class="client-one_title">Our Clients</div>
+					<div class="client-one_titl h4">Our Clients</div>
 				</div>
 				<!-- Carousel Column -->
 				<div class="clients-one_carousel-column col-lg-8 col-md-12 col-sm-12">
@@ -389,7 +389,7 @@
 
 				<!-- Button Box -->
 				<div class="service-two_button-box text-center">
-					<a class="btn-style-one theme-btn btn-item" href="#">
+					<a class="btn-style-one theme-btn btn-item" href="/projects">
 						<div class="btn-wrap">
 							<span class="text-one">More Services</span>
 							<span class="text-two">More Services</span>
@@ -1536,7 +1536,7 @@
 	<!-- End News One -->
 
 	<!-- CTA One -->
-	<section class="cta-one">
+	<section class="cta-one d-none">
 		<div class="auto-container">
 			<div class="d-flex justify-content-between align-items-center flex-wrap">
 				<div class="left-box">

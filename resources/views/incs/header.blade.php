@@ -2,7 +2,7 @@
      <header class="main-header header-style-two">
 
 		<!-- Header Top -->
-		<div class="header-top_two">
+		<div class="header-top_two d-none">
 			<div class="auto-container">
 				<div class="d-flex justify-content-center align-items-center flex-wrap">
 

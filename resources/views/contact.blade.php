@@ -61,7 +61,9 @@ FCT.
 								<span class="icon"><img src="images/icons/contact-3.png" alt="" /></span>
 								<strong>Mail address</strong>
 								info@itsupportng. com <br>
-ekejiuba 57 @ yahoo. com
+ekejiuba57@yahoo.com<br>
+emmanuel.iroh@itsupportng.com
+
 
 							</div>
 						</div>
